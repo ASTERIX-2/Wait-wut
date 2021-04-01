@@ -1,0 +1,13 @@
+body {
+    font-size: 25px;
+    background-color: #fff;
+}
+
+.heading {
+    box-shadow: 5px 5px 5px 10px orange;
+    font-size: 25px;
+}
+canvas{
+    border-radius: 25;
+    border: 10px solid whitesmoke;
+}
